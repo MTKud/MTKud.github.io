@@ -1,0 +1,16 @@
+			p{color:#00008B;font-family:Verdana;}
+			h1{color:#00008B;font-family:Verdana;}
+			ul{color:SlateBlue;font-family:Verdana;text-align:center;}
+			body{background-color:#d37e00}
+			.ha{text-align:left}
+			.pav{text-align:center;}
+			#autorius{color:#00008B; text-align: right}
+			a:hover{ color:#00008B; }
+			a:link{text-decoration:none;color:00008F;}
+			table,td {border:3px solid black}
+			table{margin:auto; width:80%;height:50%; text-align:center; color:SlateBlue;font-family:Verdana;}
+			.table {width:90%;height:50%;}
+			.row{ background-color:; vertical-align:center}
+			tr{vertical-align:center}
+			td {width:40%;height:50%; }
+			.tada {width:20%}
