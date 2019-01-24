@@ -1,0 +1,170 @@
+			p{color:##594F4F;font-family:Verdana;}
+			h1{color:##594F4F;font-family:Verdana;}
+			ul{color:#594F4F;font-family:Verdana;text-align:center;}
+			body{background-color:#594F4F}
+			.bod2{ background-color:#E5FCC2}
+			.ha{text-align:left}
+			.pav{text-align:center;}
+			#autorius{color:##594F4F; text-align: right}
+			a:hover{ color:##594F4F; }
+			a:link{text-decoration:none;color:000000;}
+			table,td {border:3px solid black}
+			table{margin:auto; width:80%;height:50%; text-align:center; color:SlateBlue;font-family:Verdana;}
+			.table {width:90%;height:50%;}
+			.row{ background-color:; vertical-align:center}
+			tr{vertical-align:center}
+			td {width:40%;height:50%; }
+			.tada {width:20%}
+
+			.virsus{background-color: #45ADA8;
+					height: 80px;
+					width: 70%;
+					font-size: 30px;
+					font-family: Verdana;
+					text-align: center;
+					margin: 15px;}
+			.povirsis{background-color: #9DE0AD   ;
+					height: 35px;
+					width: 90%;
+					font-size: 17px;
+					font-family: Verdana;
+					text-align: center;
+					margin: 15px;}
+			.popo{background-color: #45ADA8;
+					height: 17px;
+					width: 50%;
+					font-size: 30px;
+					font-family: Verdana;
+					text-align: center;
+					margin: 15px;}
+
+			.oof 
+			{
+				background-color: #547980 ;
+				height: 400px;
+				font-size: 10px;
+				font-family: Verdana;
+				text-align: center;
+				margin: 15px;
+				width: 250px;
+				float : left;
+			}
+			.aghh
+			{
+				
+				height: 400px;
+				font-size: 30px;
+				font-family: Verdana;-
+				text-align: center;
+				margin: 15px;
+				width: 150px;
+				float: right;
+			}
+			.zal
+			{
+				background-color: #9DE0AD    ;
+				height: 150px;
+				font-size: 30px;
+				font-family: Verdana;
+				margin: 15px;
+				text-align: center;
+				width: 150px;
+				float: right;
+			}
+			.mel
+			{
+				background-color: #45ADA8       ;
+				height: 150px;
+				font-size: 30px;
+				font-family: Verdana;
+				margin: 15px;
+				text-align: center;
+				width: 150px;
+				float: right;
+			}
+
+			.turi
+			{
+				background-color: #547980 ;
+				height: 800px;
+				font-size: 30px;
+				font-family: Verdana;
+				
+				margin: 15px;
+				width: 830px;
+				float: left;
+			}
+			.kort
+			{
+				background-color: #45ADA8 ;
+				height: 250px;
+				font-size: 30px;
+				font-family: Verdana;
+				text-align: center;
+				margin: 15px;
+				width: 800px;
+				float: right;
+			}
+			.aut
+			{
+				background-color: #45ADA8 ;
+				height: 250px;
+				font-size: 10px;
+				font-family: Verdana;
+				text-align: center;
+				margin: 15px;
+				width: 800px;
+				float: left;
+			}
+			.viruks
+			{
+				background-color: #547980 ;
+				height: 20px;
+				font-size: 15px;
+				font-family: Verdana;
+				text-align: center;
+				margin: 15px;
+				width:40px;
+				float: left;
+				padding: 15px;
+			}
+			.pav
+			{
+				background-color: #45ADA8 ;
+				height: 15px;
+				font-size: 25px;
+				font-family: Verdana;
+				text-align: center;
+				margin: 15px;
+				width:500px;
+				float: left;
+				padding: 15px;
+			}
+			.paveikslas
+			{
+				background-color: #547980 ;
+				height: 220px;
+				font-size: 30px;
+				font-family: Verdana;
+				text-align: center;
+				margin: 15px;
+				width: 220px;
+				float: left;
+			}
+			.teks
+			{
+				background-color: #547980 ;
+				height: 220px;
+				font-size: 10px;
+				font-family: Verdana;
+				
+				margin: 15px;
+				width: 500px;
+				float: right;
+			}
+			.blin
+			{
+				width: 220px;
+				height: 220px;
+			}
+
